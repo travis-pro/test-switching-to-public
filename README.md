@@ -2,4 +2,4 @@
 
 switch from private to public and see how it works on travis
 
-:icecream: :sunny: :cloud:
+:icecream: :sunny: :cloud: :office:
