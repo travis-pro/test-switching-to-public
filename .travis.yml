@@ -1,2 +1,5 @@
-script: 
-- echo "test1"
+language: ruby
+rvm:
+ - 2.2
+
+script: bundle exec rspec spec
