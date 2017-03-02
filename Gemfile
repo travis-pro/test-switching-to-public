@@ -1,1 +1,1 @@
-gem rspec
+gem 'rspec'
